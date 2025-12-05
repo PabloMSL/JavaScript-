@@ -1,0 +1,8 @@
+#api-tasks
+api-tasks/package.json
+api-tasks/package-lock.json
+api-tasks/node_modules
+api-tasks/.env
+
+#bot-api
+bot-api/package.json
